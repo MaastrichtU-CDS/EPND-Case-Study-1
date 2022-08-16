@@ -26,5 +26,5 @@ local:myFip rdf:type fip:FIP-Declaration;
 
 <https://repo.metadatacenter.org/templates/7569b4a5-03a8-42c5-8209-784caf64b435> schema:distribution [
     schema:encodingFormat "application/ld+json";
-    schema:contentUrl <https://github.dev/MaastrichtU-CDS/EPND-Case-Study-1/blob/main/cedar_dataset.json>;
+    schema:contentUrl <https://raw.githubusercontent.com/MaastrichtU-CDS/EPND-Case-Study-1/main/cedar_dataset.json>;
 ].
